@@ -14,3 +14,8 @@ function sayWait(): string
 {
     return "please wait for response";
 }
+
+function sayOk()
+{
+    return "response is ok";
+}
