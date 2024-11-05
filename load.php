@@ -2,5 +2,10 @@
 
 function sayHello(): string
 {
-    return 'test load function for you';
+    return 'hello';
+}
+
+function sayGoodBy(): string
+{
+    return " good by";
 }
