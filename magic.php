@@ -43,3 +43,4 @@ $magic->name= 'ali';
 $magic->pass= 'ali44';
 
 var_dump(magic::getData());
+var_dump("test");
