@@ -5,6 +5,7 @@ require 'bootstrap.php';
 use App\Models\User;
 
 if($_SERVER['REQUEST_METHOD'] == 'POST'){
+    //comment for test
     $validate = new Validation();
     $validate->checkNull($_POST);
     if(!is_null($validate->getError())) {
