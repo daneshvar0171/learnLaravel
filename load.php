@@ -19,3 +19,8 @@ function sayOk()
 {
     return "response is ok";
 }
+
+function sayStop()
+{
+    return "please stop process";
+}
