@@ -20,6 +20,8 @@
         "files": [
             "load.php"
         ]
-    }
+    },
+    "license": ["MI"]
+
 
 }
