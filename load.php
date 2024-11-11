@@ -23,3 +23,8 @@ function sayStop()
 {
     return "please stop process";
 }
+
+function sayWaiting()
+{
+    return "please wait for response";
+}
