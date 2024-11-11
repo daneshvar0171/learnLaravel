@@ -1,0 +1,25 @@
+{
+    "name": "maryam/learn-laravel",
+    "description": "this is for learning",
+    "type": "project",
+    "authors": [
+        {
+            "name": "maryam daneshvar",
+            "email": "maryam.daneshvar90@gmail.com"
+        }
+    ],
+    "require": {
+        "respect/validation": "^2.3",
+        "guzzlehttp/guzzle": "^7.9",
+      "ext-pdo": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": ""
+        },
+        "files": [
+            "load.php"
+        ]
+    }
+
+}
